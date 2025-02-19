@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Aula01Variaveis
+namespace Aula01Variaveis  
 {
     public class Program
     {
@@ -11,7 +11,7 @@ namespace Aula01Variaveis
            CalcularMedia();
 
         }
-
+            //Frase adicionada depois de clonar
         public static void CalcularMedia()
         {
             Console.WriteLine("Digite a primeira nota");
